@@ -41,13 +41,14 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 ### Project Requirements: 
 * The user will be prompted to choose from the following password criteria: 8 and 128 characters
 * The user will recieve a confirm for: 
-    * Password containing special characters, numbers, and uppercase
-    * Either 4 variables individual ones, or 3 with toLowerCase to Uppercase conversion
+    * Password containing special characters, numbers, lowerecase and/or uppercase
+    * Select Combinitions of the variable will be determined by the users confirmations
     * This will need to randomly generate a selection or randomly select array data, so math.random and math.floor will need to be used.     
 * The application should validate user input and ensure that at least one character type is selected.
     * If, else if statement 
-* Once all prompts are answered, the user will be presented with a password matching the answered prompts. Displaying the generated password in an alert is acceptable, but attempt to write the password to the page instead.
-    * Event listener will determine the password output with function to populate the value into the test area.
+* Once all prompts are answered, the user will be presented with a password matching the answered prompts. This will be displayed either in a alert
+  or written in the password area of the page.
+* Event listener will determine the password output with function to populate the value into the test area.
 
 ### This project has scripted features of:
 * Variable declaration area 
@@ -78,7 +79,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 * One Javascript Page
         * Contains: 
         * Variables, including arrays and value placeholders
-        * Two event listeners
+        * Event listeners
         * Several if/else if statements
         * One function outside of first event listener
         * For Next Loops
