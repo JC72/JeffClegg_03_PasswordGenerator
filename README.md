@@ -17,7 +17,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 
 ![](assets/ScreenShots/StartingPage.png)
 
-### This project contains the following features: 
+### This assignment contains the following features: 
 * A generate button
     * This will send the user a series of prompts and confirms
     * After user data is collected, a random password will be generated using Javascript
@@ -49,7 +49,7 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 * Once all prompts are answered, the user will be presented with a password matching the answered prompts. Displaying the generated password in an alert is acceptable, but attempt to write the password to the page instead.
     * Event listener will determine the password output with function to populate the value into the test area.
 
-### This project has script features of:
+### This project has scripted features of:
 * Variable declaration area 
 * An event listener (onclick) called generatePassword
     * This will prompt the user for input between 8-128
@@ -60,12 +60,12 @@ This project has been deployed to my Personal GitHub Page. To get this project u
 * Another variable is created to concatenate the above variables
 * A for loop will loop through the enter prompt until it reaches the number entered by user. 
 * A password variable takes the value from the for loop, and converts it to a string. 
-* The string value then populates into the text area for the user using a UserInput function. 
+* The string value then populates into the text area for the user. 
 
 ### To Execute File:
 > Open in browser
 
-### Features: 
+### Contains: 
 * One HTML Pages
     * Index.html 
         * Contains basic user input items and buttons with divs and ids
