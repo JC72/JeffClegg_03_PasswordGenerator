@@ -55,15 +55,15 @@ This project has been deployed to my Personal GitHub Page. To get this project u
     * This will prompt the user for input between 8-128
     * This variable is changed to an interger using ParseInt()
     * This will validate that the input is a number within range, or is a number
-    * This then uses the input to determine the types (or choices) or letters of characters used, using an if statement
+    * This then uses the input to determine the choices that the user selected: lowercase, uppercase, characters, and/or numbers to use, by way of an if statement
     * This then assigns values to the variables using arrays for character, number or alphabet
 * Another variable is created to concatenate the above variables
-* A for loop will loop through the enter prompt until it reaches the number entered by user. 
+* A for loop will loop through the enter prompt until it reaches the length entered by user. 
 * A password variable takes the value from the for loop, and converts it to a string. 
-* The string value then populates into the text area for the user. 
+* The string value then populates into the text area for the user by returning the value to the writepassword function.
 
 ### To Execute File:
-> Open in browser
+> Open in browser by way of Deployed IO link
 
 ### Contains: 
 * One HTML Pages
