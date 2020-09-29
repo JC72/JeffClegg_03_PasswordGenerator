@@ -48,8 +48,6 @@ This project has been deployed to my Personal GitHub Page. To get this project u
     * If, else if statement 
 * Once all prompts are answered, the user will be presented with a password matching the answered prompts. Displaying the generated password in an alert is acceptable, but attempt to write the password to the page instead.
     * Event listener will determine the password output with function to populate the value into the test area.
-* As a bonus, the user should also have the option to click a button to copy the password to their clipboard.
-    * Copy execCommand in event listener
 
 ### This project has script features of:
 * Variable declaration area 
@@ -81,12 +79,13 @@ This project has been deployed to my Personal GitHub Page. To get this project u
         * Contains: 
         * Variables, including arrays and value placeholders
         * Two event listeners
-        * Two if/else if statements
+        * Several if/else if statements
         * One function outside of first event listener
+        * For Next Loops
 
-## Authors
+## Creators:
 
-* **Jeff Clegg** - [Git Hub Profile](https://github.com/jamierachael)
+* **Jeff Clegg** - [Git Hub Profile](https://github.com/JC72)
 * MSU BootCamp
 
 
